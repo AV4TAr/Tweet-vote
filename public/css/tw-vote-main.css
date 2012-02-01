@@ -1,0 +1,30 @@
+
+footer {
+    color: #FFFFFF;
+    background: none repeat scroll 0 0 #252525;
+    border-top: 1px solid #EEEEEE;
+    margin-top: 19px;
+    padding-top: 19px;
+}
+
+footer h4 {
+    color: #999999;
+}
+
+footer p {
+    color: #999999;
+}
+
+footer a {
+    color: #FFFFFF;
+}
+
+footer a:visited {
+    color: #FFFFFF;
+}
+
+#footer-floor {
+    background: none repeat scroll 0 0 #1B1B1B;
+}
+
+
